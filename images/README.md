@@ -1,4 +1,1 @@
-# CS20-Project-Thingy
-for CS20
-changes
-more changes
+# Image Notes
