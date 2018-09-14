@@ -3,4 +3,4 @@ Supposed to research, dunno what to though
 # this is bold
 
 _this is not bold instead is italic_
-<p style="color:red;">is blue</p>
+<p style="color:red;">is supposed to be blue</p>
