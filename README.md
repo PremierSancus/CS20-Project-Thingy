@@ -10,3 +10,11 @@ _this is not bold instead is italic_
 
   - [] Nested Item
    - [] Further Nested Item
+- [] Learn HTML, CSS and Java Script and do the following
+  - [] Learn about buttons
+  - [] learn about navigation
+  - [] learn about backgrounds
+  - [] learn how to put pictures
+  - [] learn how to put text next pictures
+  - [] learn about popups
+  - []
